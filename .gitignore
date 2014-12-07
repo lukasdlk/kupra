@@ -5,3 +5,8 @@
 *~
 .project
 .pydevproject
+venv
+build
+kupra.nja
+KuPRA.egg-info
+dist
